@@ -3,7 +3,9 @@
 The server side of the **Metzada Doors** factory management system.
 It exposes a REST API for orders, customers, employees and door products, and **generates CNC machine programs (`.mpf`) automatically from a door's specification**.
 
-> Frontend: [MetzadaReact](https://github.com/NussbaumRachel/MetzadaReact)
+> Frontend: [MetzadaReact](https://github.com/metzada-doors/MetzadaReact)
+
+**Team:** [Rachel Nussbaum](https://github.com/NussbaumRachel) · [Racheli Kaminer](https://github.com/rachelikaminer)
 
 ## ✨ Highlights
 
